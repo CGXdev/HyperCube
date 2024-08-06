@@ -1,5 +1,5 @@
 # HyperCube
-HyperCube is an interactive 3D building program that I have wrote in Python, it's a work in progress and is missing quite a bit of functionality, it will remain closed source while I am working on it. It has a few features, like a camera navigation menu, the 3D stage and a Properties panel used to create and manage objects. Have a go at it, its fairly easy to make stuff with it.
+HyperCube is an interactive 3D building program that I have wrote in Python, it's a work in progress and is missing quite a bit of functionality. It has a few features, like a camera navigation menu, the 3D stage and a Properties panel used to create and manage objects. Have a go at it, its fairly easy to make stuff with it.
 
 ## Installation
 Please ensure you have the latest version of Python downloaded and ensure you have Panda3D, Tkinter, Pillow and Logger installed, if you don't have these installed use the command:
